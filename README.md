@@ -7,3 +7,5 @@
 - Spoorthi Menta
 - Vamsi Krishna Singara
 - Jack Vanlyssel
+
+## This is a voting simulation for the state of New Mexico.
